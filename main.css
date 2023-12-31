@@ -1,0 +1,24 @@
+#salmon {
+    font-size: 30px;
+    background-color:white;
+    border-radius: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#back {
+    background-color: rgb(181, 164, 164)
+}
+
+#meatballs {
+    font-size: 30px;
+    background-color: white;
+    border-radius: 10%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#bbqribs {
+    font-size: 30px;
+    background-color: aliceblue;
+    border-radius: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
