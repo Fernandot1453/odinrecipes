@@ -1,8 +1,11 @@
 #salmon {
+    color: rgb(3, 172, 184);
+    text-decoration: none;
     font-size: 30px;
-    background-color:white;
-    border-radius: 10%;
+    background-color:rgb(212, 212, 212);
+    border-radius: 5%
     font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
 }
 
 #back {
@@ -10,15 +13,38 @@
 }
 
 #meatballs {
+    color: rgb(3, 172, 184);
+    text-decoration: none;
+    border-radius: 5%;
+    padding: 5px;
     font-size: 30px;
-    background-color: white;
-    border-radius: 10%;
-    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(212, 212, 212)
 }
 
 #bbqribs {
+    color: rgb(3, 172, 184);
+    text-decoration: none;
     font-size: 30px;
-    background-color: aliceblue;
-    border-radius: 10%;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px;
+    border-radius: 5%;
+    background-color: rgb(212, 212, 212);
+}
+
+.salmon {
+    margin:15px;
+
+}
+
+.meatballs{
+    margin: 15px;
+}
+
+.bbqribs {
+    margin: 15px;
+}
+
+#salmon:hover,
+#meatballs:hover,
+#bbqribs:hover {
+    color:red;
 }
